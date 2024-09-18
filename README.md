@@ -1,5 +1,3 @@
-# gc-python-2024
-
 # Ciência de dados com Python
 
 ---
