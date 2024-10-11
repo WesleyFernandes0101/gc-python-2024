@@ -5,6 +5,20 @@
 **Level Atual:** 1
 
 ---
+## Feedback exercícios
+
+- **Aula 01:**
+	- **Ex1:** Ok
+	- **Ex2:** Ok
+	- **Ex3:** Incorreto, média está sendo calculada de forma errada
+- **Aula 02:**
+	- **Ex4:** Ok
+	- **Ex5:** Ok
+	- **Ex6:** Ok
+
+- Geral: mantenha a ordem dos exercícios, ao invés de aula02/exercicio01 use aulas02/exercicio04	
+
+---
 ## Conquistas
 
 
@@ -41,7 +55,7 @@ Resposta: Monty Python and the Holy Grail
 ```
 Qual planeta eu nasci? ❌
 ```
-Resposta: Exemplo errado 
+Resposta: Jupyter 
 ```
 Qual meu tipo de pokemon favorito?
 ```
