@@ -59,7 +59,7 @@ Resposta: Jupyter
 ```
 Qual meu tipo de pokemon favorito?
 ```
-Resposta:
+Resposta: Brilhante
 ```
 Gosto de cidades populosas, sem ser SP qual outra posso morar?
 ```
