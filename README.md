@@ -63,7 +63,7 @@ Resposta: Brilhante
 ```
 Gosto de cidades populosas, sem ser SP qual outra posso morar?
 ```
-Resposta:
+Resposta: Rio de janeiro
 ```
 
 ...
